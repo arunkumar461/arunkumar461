@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar461&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar461" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@ja.m.arunkumar](https://medium.com/@ja.m.arunkumar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
